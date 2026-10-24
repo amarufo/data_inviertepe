@@ -1,0 +1,53 @@
+#===============================================================
+¿TE PARE ÚTIL? APOYAME CON UN YAPESITO ;) 934657378 (+51, PERUVIANO)
+#===============================================================
+Descripción             Información municipal (registrado enel RENAMU - INEI) de la sección seguridad Ciudadana
+Uso                     Diagnóstico de la Unidad Productora en Proyectos de Seguridad Ciudadana.
+                        Columnas/variables: diccionario_columnas_seguridad_ciudadana.xlsx
+Fuente: 	            https://proyectos.inei.gob.pe/microdatos/
+                        - RENAMU
+                        - 2026
+Fecha de procesamiento  24/10/2026
+Fecha data publicación	01/06/2026
+Fecha de consulta       24/10/2026
+
+Contacto                amaruf9523@gmail.com
+¿MÁS DATA?	            www.inviertepe.com
+#===============================================================
+
+[1] Lectura: 1892 filas x 1397 columnas (crudo)
+[2] Variables del diccionario presentes: 180/180
+[3] Conversion de tipos y validacion de dominios
+    - P74_1 (categorica): 653 valores fuera de dominio -> NA
+[4] Municipalidades que NO informaron cada pregunta (VFI = 0) -> variables de la pregunta a NA
+    - P68: 0 no informaron
+    - P69: 0 no informaron
+    - P70: 0 no informaron
+    - P71: 0 no informaron
+    - P72: 0 no informaron
+    - P73: 0 no informaron
+    - P74: 0 no informaron
+    - P75: 0 no informaron
+    - P76: 0 no informaron
+    - P77: 0 no informaron
+    - P78: 0 no informaron
+    - P79: 0 no informaron
+    - P80: 0 no informaron
+[5] Reglas de filtro (pregunta filtro = No)
+    - Filas con conteo>0 pese a filtro=No (se conservan y se marcan): 0
+[6] Alertas de consistencia (se MARCAN, no se borran)
+    - alerta_filtro_incoherente: 0
+    - alerta_efectivos_dic2025_no_cuadra: 0
+    - alerta_efectivos_mar2026_no_cuadra: 0
+    - alerta_equipo_total_no_cuadra: 0
+    - alerta_gps_mayor_a_autos_operativos: 0
+    - alerta_camaras_pnp_mayor_a_operativas: 0
+    - alerta_sectores_no_cuadran: 0
+    - alerta_plan_no_tiene_vs_tiene: 0
+    - alerta_instrumentos_ninguno_vs_alguno: 0
+    - alerta_prevencion_ninguna_vs_alguna: 0
+    - alerta_comite_no_conformado_con_actividades: 0
+[7] Valores extremos (Q3 + 3.0*IQR por tipo de municipalidad; solo se marcan)
+    - Registros con >=1 valor extremo: 322
+[8] Duplicados exactos eliminados: 0; duplicados por clave ['id_municipalidad'] (se conserva el primero): 0
+[9] Base final: 1892 filas x 206 columnas
