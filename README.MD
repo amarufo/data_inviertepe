@@ -8,9 +8,12 @@ Repositorio de información geográfica, territorial, estadística y técnica pa
 
 **[www.inviertepe.com/data](https://www.inviertepe.com/data/)**
 
-| Dataset              | Descarga                                                                                                                    |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| SIDPOL_DELITOS_TOTAL | [Descargar ZIP](https://github.com/amarufo/data_inviertepe/releases/download/sidpol_delitos_total/SIDPOL_DELITOS_TOTAL.zip) |
+| Dataset                    | Descarga                                                                                                                                   |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| sidpol_delitos_total       | [📦 Descargar ZIP](https://github.com/amarufo/data_inviertepe/releases/download/sidpol_delitos_total/sidpol_delitos_total.zip)             |
+| descriptivos_distritos     | [📦 Descargar ZIP](https://github.com/amarufo/data_inviertepe/releases/download/descriptivos_distritos/descriptivos_distritos.zip)         |
+| renamu_seguridad_ciudadana | [📦 Descargar ZIP](https://github.com/amarufo/data_inviertepe/releases/download/renamu_seguridad_ciudadana/renamu_seguridad_ciudadana.zip) |
+
 
 ### ¿Qué encontrarás?
 
@@ -20,9 +23,7 @@ Repositorio de información geográfica, territorial, estadística y técnica pa
 - 📊 Información territorial y estadística.
 - 🏗️ Datos e insumos para la formulación y evaluación de proyectos.
 - 🤖 Recursos para análisis de datos
-- ⚠️ Simpre revisar INFO_IMPORTANTE.txt <== Aquí se cita la fuente, diccionario de datos, referencias y otros datos importantes.
-
-
+- ⚠️ Simpre revisar LEER_ES_BUENO <== Aquí se cita la fuente, diccionario de datos, referencias y otros datos importantes.
 
 ### Licencia y atribución
 
