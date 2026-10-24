@@ -1,0 +1,16 @@
+# Paquetes comprimidos
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.xz
+
+# Archivos de datos
+*.parquet
+*.geoparquet
+*.csv
+*.xlsx
+*.xls
+*.gpkg
+*.geojson

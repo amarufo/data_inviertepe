@@ -4,6 +4,14 @@
 
 Repositorio de información geográfica, territorial, estadística y técnica para formuladores, evaluadores y profesionales en el campo de los proyectos de inversión en el Perú.
 
+### Datos
+
+**[www.inviertepe.com/data](https://www.inviertepe.com/data/)**
+
+| Dataset              | Descarga                                                                                                                    |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| SIDPOL_DELITOS_TOTAL | [Descargar ZIP](https://github.com/amarufo/data_inviertepe/releases/download/sidpol_delitos_total/SIDPOL_DELITOS_TOTAL.zip) |
+
 ### ¿Qué encontrarás?
 
 - 📊 Datos crudos y limpios importantes para la formulación, evaluación, estructuración y gestión de proyectos de inversión en el Perú.
@@ -14,21 +22,10 @@ Repositorio de información geográfica, territorial, estadística y técnica pa
 - 🤖 Recursos para análisis de datos
 - ⚠️ Simpre revisar INFO_IMPORTANTE.txt <== Aquí se cita la fuente, diccionario de datos, referencias y otros datos importantes.
 
-### Accede a los datos
 
-👉 **[www.inviertepe.com/data](https://www.inviertepe.com/data/)**
-
-### 🤝 Contribuye
-
-Este repositorio busca facilitar el acceso a datos útiles para el desarrollo de proyectos de inversión en el Perú.
 
 ### Licencia y atribución
 
 Los datos de este repositorio pueden utilizarse, copiarse, modificarse y redistribuirse libremente, incluso con fines comerciales, siempre que se cite la fuente y se reconozca la contribución de **Econ. Wilbert Amaru Fernandez Olmedo (www.inviertepe.com)**.
-
-**Cita sugerida:**
-
-> Fuente: InviertePE - Datos abiertos para proyectos de inversión en el Perú.  
-> https://www.inviertepe.com/data/
 
 **Nota:** Los datos provenientes de terceros pueden estar sujetos a sus propias licencias y condiciones de uso, que deberán respetarse.
