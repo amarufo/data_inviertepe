@@ -19,7 +19,7 @@ Uso                     Diagnóstico de la Unidad Productora en Proyectos de Seg
                         Columnas/variables: diccionario_columnas_seguridad_ciudadana.xlsx
 Fuente: 	            https://proyectos.inei.gob.pe/microdatos/
                         - RENAMU
-                        - 2026
+                        - 2026g
 Fecha de procesamiento  24/10/2026
 Fecha data publicación	01/06/2026
 Fecha de consulta       24/10/2026
