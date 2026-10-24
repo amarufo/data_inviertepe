@@ -1,0 +1,163 @@
+
+███████████████████████████████████████████████████████████
+▒.........▓▓▓........▒                                    ▒
+▒.......▓▓▓▓███......▒                                    ▒
+▒.....▓▓▓▓..█▒█▒▓▒...▒                                    ▒
+▒...▓▓▓▓.....░███░...▒ Elaborado por: Amaru Fernandez     ▒
+▒.▓▓▓▓.......▒█░███▓.▒ Página: www.inviertepe.com/data/   ▒
+▒▓▓█.......░▒░...▓█▓▓▒ Contacto: amaruf9523@gmail.com     ▒
+▒.▓▓▓▓....░░░░..▓▓▓▓.▒ ¿Te fue útil? Apóyame con  S/0.001 ▒
+▒...▓███.░░...███▓...▒ YAPESITO 934657378                 ▒
+▒.....░▒▒▓..▒▒░░.....▒                                    ▒
+▒.......░░░▒▒▒.......▒                                    ▒
+▒.........░░.........▒                                    ▒
+███████████████████████████████████████████████████████████
+
+Descripción:
+Límites administrativos de departamentos, provincias y distritos del Perú, incluyendo sus capitales, áreas y otros datos administrativos. Contiene 1,891 distritos.
+
+Archivos:
+- distritos_peru_v261024.xlsx
+- distritos_peru_v261024.geoparquet
+    - Se añade geometrías de cada distrito
+
+Formato: GeoParquet, xlsx
+Número de filas: 1,891
+Número de columnas: 27
+
+Fuentes:
+- INEI
+- Instituto Geográfico Nacional
+- Publicaciones independientes
+
+Enlaces:
+- https://ide.inei.gob.pe/
+- https://geoespacial.inei.gob.pe/geoserver/web/
+- https://www.geoidep.gob.pe/
+
+Fechas:
+- Fecha de publicación: 2023-01-01
+- Fecha de actualización: 2025-11-01
+- Fecha de consulta: 2025-11-01
+
+Metodología:
+Los límites administrativos se obtienen de la información oficial del Instituto Nacional de Estadística e Informática (INEI) del Perú. Las capitales de distrito, provincia y departamento proceden de fuentes oficiales y no oficiales, incluyendo el INEI, el Instituto Geográfico Nacional y publicaciones independientes.
+
+Norma:
+No especificada.
+
+Bibliografía:
+No especificada.
+
+
+DICCIONARIO DE DATOS
+====================
+
+1. name_dep
+   Tipo: str
+   Descripción: Nombre del departamento.
+
+2. ubigeo_dep
+   Tipo: str
+   Descripción: UBIGEO del departamento, de 2 dígitos.
+
+3. name_prov
+   Tipo: str
+   Descripción: Nombre de la provincia.
+
+4. ubigeo_prov
+   Tipo: str
+   Descripción: UBIGEO de la provincia, de 4 dígitos.
+
+5. name_dist
+   Tipo: str
+   Descripción: Nombre del distrito.
+
+6. ubigeo_dist
+   Tipo: str
+   Descripción: UBIGEO del distrito, de 6 dígitos.
+
+7. capital_dist
+   Tipo: str
+   Descripción: Nombre de la capital del distrito. Se han identificado errores; dato pendiente de actualización.
+
+8. area_km2_dist
+   Tipo: float64
+   Descripción: Área del distrito en kilómetros cuadrados.
+
+9. lat_capital_dist
+   Tipo: float64
+   Descripción: Latitud de la capital del distrito.
+
+10. lon_capital_dist
+    Tipo: float64
+    Descripción: Longitud de la capital del distrito.
+
+11. frontera_capital_dist
+    Tipo: str
+    Descripción: Indicador de si la capital del distrito limita con otro país (Sí/No).
+
+12. capital_prov
+    Tipo: str
+    Descripción: Nombre de la capital de la provincia.
+
+13. area_km2_prov
+    Tipo: float64
+    Descripción: Área de la provincia en kilómetros cuadrados.
+
+14. ubigeo_dist_capital_prov
+    Tipo: str
+    Descripción: UBIGEO de 6 dígitos del distrito donde se encuentra la capital provincial.
+
+15. lat_capital_prov
+    Tipo: float64
+    Descripción: Latitud de la capital de la provincia.
+
+16. lon_capital_prov
+    Tipo: float64
+    Descripción: Longitud de la capital de la provincia.
+
+17. frontera_capital_prov
+    Tipo: str
+    Descripción: Indicador de si la capital de la provincia limita con otro país (Sí/No).
+
+18. capital_dep
+    Tipo: str
+    Descripción: Nombre de la capital del departamento.
+
+19. area_km2_dep
+    Tipo: float64
+    Descripción: Área del departamento en kilómetros cuadrados.
+
+20. ubigeo_dist_capital_dep
+    Tipo: str
+    Descripción: UBIGEO de 6 dígitos del distrito donde se encuentra la capital departamental.
+
+21. lat_capital_dep
+    Tipo: float64
+    Descripción: Latitud de la capital del departamento.
+
+22. lon_capital_dep
+    Tipo: float64
+    Descripción: Longitud de la capital del departamento.
+
+23. frontera_capital_dep
+    Tipo: str
+    Descripción: Indicador de si la capital del departamento limita con otro país (Sí/No).
+
+24. macroregion_inei
+    Tipo: str
+    Descripción: Macroregión según el INEI.
+
+25. macroregion_minsa
+    Tipo: str
+    Descripción: Macroregión según el MINSA.
+
+26. altitud_capital_dist
+    Tipo: int64
+    Descripción: Altitud de la capital del distrito en metros sobre el nivel del mar.
+
+27. geometry
+    Tipo: geometry
+    Descripción: Geometría del distrito en el sistema de referencia de coordenadas EPSG:4326.
+

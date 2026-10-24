@@ -1,5 +1,18 @@
-#===============================================================
-¿TE PARE ÚTIL? APOYAME CON UN YAPESITO ;) 934657378 (+51, PERUVIANO)
+███████████████████████████████████████████████████████████
+▒.........▓▓▓........▒                                    ▒
+▒.......▓▓▓▓███......▒                                    ▒
+▒.....▓▓▓▓..█▒█▒▓▒...▒                                    ▒
+▒...▓▓▓▓.....░███░...▒ Elaborado por: Amaru Fernandez     ▒
+▒.▓▓▓▓.......▒█░███▓.▒ Página: www.inviertepe.com/data/   ▒
+▒▓▓█.......░▒░...▓█▓▓▒ Contacto: amaruf9523@gmail.com     ▒
+▒.▓▓▓▓....░░░░..▓▓▓▓.▒ ¿Te fue útil? Apóyame con  S/0.001 ▒
+▒...▓███.░░...███▓...▒ YAPESITO 934657378                 ▒
+▒.....░▒▒▓..▒▒░░.....▒                                    ▒
+▒.......░░░▒▒▒.......▒                                    ▒
+▒.........░░.........▒                                    ▒
+███████████████████████████████████████████████████████████
+
+
 #===============================================================
 Descripción             Información municipal (registrado enel RENAMU - INEI) de la sección seguridad Ciudadana
 Uso                     Diagnóstico de la Unidad Productora en Proyectos de Seguridad Ciudadana.
@@ -10,9 +23,6 @@ Fuente: 	            https://proyectos.inei.gob.pe/microdatos/
 Fecha de procesamiento  24/10/2026
 Fecha data publicación	01/06/2026
 Fecha de consulta       24/10/2026
-
-Contacto                amaruf9523@gmail.com
-¿MÁS DATA?	            www.inviertepe.com
 #===============================================================
 
 [1] Lectura: 1892 filas x 1397 columnas (crudo)

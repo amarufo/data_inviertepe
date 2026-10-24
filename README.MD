@@ -12,7 +12,7 @@ Repositorio de información geográfica, territorial, estadística y técnica pa
 - 📊 Información territorial y estadística.
 - 🏗️ Datos e insumos para la formulación y evaluación de proyectos.
 - 🤖 Recursos para análisis de datos
-- ⚠️ Simpre revisar INFO_IMPORTANTE.txt <== Aquí se cita la fuente y ciertas anotaciones importantes.
+- ⚠️ Simpre revisar INFO_IMPORTANTE.txt <== Aquí se cita la fuente, diccionario de datos, referencias y otros datos importantes.
 
 ### Accede a los datos
 
